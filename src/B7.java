@@ -5,7 +5,11 @@ public class B7 {
         ama bazen ister istemez çakışmalar olabilir
          */
         /*
+<<<<<<< HEAD
         main branch de çakışma olması için yazdım
+=======
+        denemede çakışma olması için yaptım
+>>>>>>> deneme
          */
     }
 }
