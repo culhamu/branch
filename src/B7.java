@@ -4,5 +4,8 @@ public class B7 {
         farklı branch lerde çalışırken kendi projemiz olduğu için farklı class larda çalışıp çakışma olmasını engelledik
         ama bazen ister istemez çakışmalar olabilir
          */
+        /*
+        denemede çakışma olması için yaptım
+         */
     }
 }
